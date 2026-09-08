@@ -62,5 +62,9 @@ img{
 a {
 	color: red;
 }
- .h2-red {
-    color: red;}
+ .h2-red{
+    color: red;
+    text-align: center;
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
